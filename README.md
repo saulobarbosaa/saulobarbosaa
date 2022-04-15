@@ -8,8 +8,8 @@ Além disso trabalho como freelancer de design gráfico, atuando na criação de
 
 <div align="center">
   <a href="https://github.com/saulobarbosaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulobarbosaa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulobarbosaa&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=saulobarbosaa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulobarbosaa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
  <div style="display: inline_block"><br>
