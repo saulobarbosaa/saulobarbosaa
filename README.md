@@ -1,7 +1,9 @@
 # Olá, meu nome é Saulo Barbosa👋
 
-### 📚Atualmente sou apenas um estudante, apaixonado por design e ambicioso com desenvolvimento web
-Além disso trabalho como freelancer de design gráfico, atuando na criação de imagens e vídeos focados em redes sociais e publicidade de pequenas empresas
+### 📚Atualmente sou apenas um estudante e programador iniciante, apaixonado por design e ambicioso com desenvolvimento web
+
+Ingressei recentemente na carreira de programação atuando como trainee de desenvolvimento Java.
+Além disso trabalho como freelancer de design gráfico nas horas vagas, atuando na criação de imagens e vídeos focados em redes sociais e publicidade de pequenas empresas
 <br>
 
   ##
