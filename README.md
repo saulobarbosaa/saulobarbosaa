@@ -20,6 +20,7 @@ Além disso trabalho como freelancer de design gráfico nas horas vagas, atuando
   <img align="center" alt="Saulo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Saulo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Saulo-gif" height="150" style="border-radius:50px" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    
 </div>
   
