@@ -2,7 +2,7 @@
 
 ### 📚Atualmente sou apenas um estudante, programador e apaixonado por design
 
-Ingressei recentemente na carreira de programação atuando como trainee de desenvolvimento Java.
+Ingressei recentemente na carreira de programação atuando como desenvolvedor Java Junior.
 Além disso trabalho como freelancer de design gráfico nas horas vagas, atuando na criação de imagens e vídeos focados em redes sociais e publicidade de pequenas empresas
 <br>
 
